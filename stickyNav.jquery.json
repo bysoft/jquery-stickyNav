@@ -1,0 +1,35 @@
+{
+	"name": "stickyNav",
+	"title": "jQuery stickyNav",
+	"description": "a jQuery plugin for sticky navigation.",
+	"keywords": [
+		"jquery",
+		"stickyNav",
+		"plugins"
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Brian Yang",
+		"email": "mail@brianyang.com",
+		"url": "https://github.com/bysoft"
+	},
+	"maintainers": [
+		{
+			"name": "Brian Yang",
+			"email": "mail@brianyang.com",
+			"url": "https://github.com/bysoft"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"bugs": "https://github.com/jquery-stickyNav/stickyNav/issues",
+	"homepage": "http://jquerystickyNav.com",
+	"docs": "https://github.com/jquery-stickyNav/stickyNav#readme",
+	"download": "https://github.com/jquery-stickyNav/stickyNav/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
